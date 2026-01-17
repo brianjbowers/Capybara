@@ -11,8 +11,6 @@ This documentation corresponds to:
 :maxdepth: 4
 :caption: Contents
 
-style-notes
-contributing
-changelog
 editions/original/index
+style-notes
 ```
