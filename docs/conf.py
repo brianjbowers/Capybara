@@ -25,7 +25,7 @@ release = edition_full
 
 extensions = ["myst_parser",]
 
-templates_path = ["_templates"]
+templates_path = ["_templates",]
 exclude_patterns = []
 
 # -- MyST (Markdown) configuration ------------------------------------------
