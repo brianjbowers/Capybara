@@ -1,0 +1,48 @@
+/* ===============================
+   Capybara Brand Theme
+   =============================== */
+
+/* Sidebar background */
+.wy-side-nav-search,
+.wy-nav-side {
+  background: #9F5A2C;
+}
+
+/* Sidebar text */
+.wy-side-nav-search input[type="text"] {
+  border-color: #77390A;
+}
+
+/* Main background accents */
+.wy-nav-content {
+  background: #DAC4B0;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  color: #77390A;
+}
+
+/* Body text */
+body {
+  color: #3A2A1A;
+}
+
+/* Links */
+a {
+  color: #277DD1;
+}
+a:hover {
+  color: #39BBFF;
+}
+
+/* Inline code */
+code {
+  background: #C4A48A;
+  color: #3A2A1A;
+}
+
+/* Admonitions */
+.admonition {
+  border-left: 6px solid #00356B;
+}
