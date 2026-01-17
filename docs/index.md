@@ -7,7 +7,7 @@ This documentation corresponds to:
 
 **Capybara: {{ release }}**
 
-```{toctree}
+toctree::
 :maxdepth: 2
 :caption: Contents
 
