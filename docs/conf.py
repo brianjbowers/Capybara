@@ -43,7 +43,7 @@ html_static_path = ["_static"]
 html_css_files = ["capybara.css",]
 
 # Title shown in browser, sidebar, and search results
-html_title = f"Capybara Framework – {edition_full}"
+html_title = f"Capybara Framework - {edition_full}"
 
 # Clean URLs (recommended for Read the Docs)
 html_use_directory_html = True
