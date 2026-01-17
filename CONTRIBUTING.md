@@ -90,6 +90,121 @@ Subsequent releases should increment version numbers according to SemVer rules a
 
 ---
 
+## Publishing a New Edition and Version
+
+Capybara editions and versions are published using standard Git and GitHub workflows, following **Semantic Versioning (SemVer)** and the project’s **Edition + Version** naming convention.
+
+This section explains how to publish a new edition using either the **command-line Git workflow** or the **GitHub web interface**, using the transition from:
+
+> **Capybara: Alpha Edition 0.x.y**
+> to
+> **Capybara: Original Edition 1.0.0**
+
+as a real-world example.
+
+### Edition and Version Requirements
+
+Before publishing a new edition or version, contributors must ensure:
+
+* All relevant content is complete, reviewed, and merged into the default branch (`main`)
+* `CHANGELOG.md` (root-level) has been updated with a new entry for the release
+* The edition name and version number are updated consistently throughout the documentation (for example, in titles, fore-matter, and metadata)
+* The release follows **Semantic Versioning**
+
+  * `1.0.0` represents the first stable, production-ready release
+
+## Option A: Publishing via Command-Line Git
+
+This method is recommended for contributors comfortable with Git on the command line.
+
+### Step 1: Ensure `main` is up to date
+
+```bash
+git checkout main
+git pull origin main
+```
+
+### Step 2: Finalize documentation updates
+
+Confirm that the following reflect the new edition:
+
+* `CHANGELOG.md` includes a section for **Capybara: Original Edition 1.0.0**
+* Edition references are updated from “Alpha Edition” to “Original Edition” where appropriate
+
+Commit any final changes:
+
+```bash
+git add .
+git commit -m "Release: Capybara Original Edition 1.0.0"
+```
+
+### Step 3: Create a version tag
+
+```bash
+git tag v1.0.0
+```
+
+### Step 4: Push commits and tag to GitHub
+
+```bash
+git push origin main
+git push origin v1.0.0
+```
+
+At this point, the **Original Edition 1.0.0** is officially published and available for downstream use, forks, and documentation builds.
+
+## Option B: Publishing via the GitHub Web Interface
+
+This method is suitable for contributors who prefer not to use the command line.
+
+### Step 1: Merge final changes into `main`
+
+* Ensure all pull requests related to the release are merged
+* Verify that `CHANGELOG.md` contains the finalized 1.0.0 entry
+
+### Step 2: Create a new release and tag
+
+1. Navigate to the repository on GitHub
+2. Click **Releases**
+3. Click **Draft a new release**
+4. In the **Tag version** field, enter:
+
+   ```
+   v1.0.0
+   ```
+5. Set the **Target** branch to `main`
+6. Set the release title to:
+
+   ```
+   Capybara: Original Edition 1.0.0
+   ```
+7. Optionally paste the corresponding `CHANGELOG.md` entry into the release description
+8. Click **Publish release**
+
+GitHub will automatically create the `v1.0.0` tag and associate it with the `main` branch.
+
+## After Publishing
+
+Once a new edition is published:
+
+* The release tag (`v1.0.0`) becomes the canonical reference point for that edition
+* Documentation hosting platforms (such as Read the Docs) may be configured to expose the version publicly
+* All future development should proceed on `main` toward the next edition or version (for example, `1.1.0` or a future edition)
+
+## Notes on Pre-Releases
+
+Pre-release editions (such as Alpha or Beta editions using `0.x.y` versions):
+
+* May be published without tags
+* Should clearly indicate their pre-release status in documentation
+* Do not imply long-term stability or backward compatibility
+
+The **Original Edition 1.0.0** represents Capybara’s first stable, production-ready release and establishes the baseline for all future versions.
+
+By following these steps, contributors help ensure Capybara releases remain consistent, traceable, and easy for the global community to adopt and build upon.
+
+---
+
 ## Style Notes and Guidelines
 
 The **“Style Notes and Guidelines”** section in the project’s guide fore-matter establishes the baseline stylistic and structural conventions for this repository.
