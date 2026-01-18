@@ -4,7 +4,7 @@
     <style>
     /* Headings */
     h1, h2, h3, h4, h5, h6 {
-        color: #77390A; /* Heading font color */
+        color: \#77390A; /* Heading font color */
     }
 
     /* Sepia palette swatches */
@@ -13,25 +13,25 @@
         width: 60px;
         height: 30px;
         margin: 0 10px 10px 0;
-        border: 1px solid #999;
+        border: 1px solid \#999;
         vertical-align: middle;
         line-height: 30px;
         text-align: center;
-        color: #fff;
+        color: \#fff;
         font-size: 0.75rem;
         font-family: monospace;
     }
 
-    .sepia1 { background-color: #9F5A2C; }
-    .sepia2 { background-color: #77390A; }
-    .sepia3 { background-color: #DAC4B0; color: #000; }
-    .sepia4 { background-color: #C4A48A; color: #000; }
+    .sepia1 { background-color: \#9F5A2C; }
+    .sepia2 { background-color: \#77390A; }
+    .sepia3 { background-color: \#DAC4B0; color: \#000; }
+    .sepia4 { background-color: \#C4A48A; color: \#000; }
 
     /* Blue accents */
-    .accent1 { background-color: #39BBFF; }
-    .accent2 { background-color: #277DD1; }
-    .accent3 { background-color: #0C61B9; }
-    .accent4 { background-color: #00356B; }
+    .accent1 { background-color: \#39BBFF; }
+    .accent2 { background-color: \#277DD1; }
+    .accent3 { background-color: \#0C61B9; }
+    .accent4 { background-color: \#00356B; }
 
     </style>
 ```
