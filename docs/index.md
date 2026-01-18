@@ -8,7 +8,7 @@ This documentation corresponds to:
 **Capybara: { release }**
 
 ```{toctree}
-:maxdepth: 3
+:maxdepth: -1
 :caption: Framework Contents
 :titlesonly:
 editions/alpha/index
