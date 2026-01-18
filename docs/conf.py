@@ -132,6 +132,7 @@ if CURRENT_EDITION_DIR:
 # Capybara is a documentation-only repository. Sphinx is used purely as a documentation compiler for Read the Docs.
 
 extensions = ["myst_parser",]
+myst_enable_extensions = ["substitutions"] 
 
 templates_path = ["_templates",]
 
