@@ -23,6 +23,7 @@ branding
 filenaming-conventions
 code-of-conduct
 contributing
+publishing
 ```
 
 ```{toctree}
