@@ -2,6 +2,6 @@
 
 # License
 
-```{literalinclude} ../LICENSE
+.. {literalinclude} ../LICENSE
 :language: text
 :lines: 3-21
