@@ -158,7 +158,7 @@ language = "en"
 
 # -- MyST (Markdown) configuration ------------------------------------------
 
-myst_enable_extensions = ["substitutions", "colon_fence", "deflist", "tasklist",]
+myst_enable_extensions = ["colon_fence", "deflist", "tasklist",]
 
 
 # ------------------------------------------------------------
