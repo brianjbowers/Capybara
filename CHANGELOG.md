@@ -1,5 +1,3 @@
-```{orphan}
-
 # Changelog
 
 All notable changes to the Capybara Framework are documented in this file.
