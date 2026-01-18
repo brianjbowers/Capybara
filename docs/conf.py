@@ -183,9 +183,9 @@ html_context = {
     "edition_version": edition_version,
     "edition_tagline": edition_tagline,
     "edition_description": edition_description,
-    "edition_full" = f"{edition_name} {edition_version}",
-    "version" = edition_version,
-    "release" = edition_full,
+    "edition_full": f"{edition_name} {edition_version}",
+    "version": edition_version,
+    "release": edition_full,
 }
 myst_substitutions = html_context
 
