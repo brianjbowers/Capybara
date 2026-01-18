@@ -1,4 +1,4 @@
-# Publishing a New Capybara Edition
+# Publishing a New Edition
 
 This guide explains how to publish a new Capybara edition/version, including all required metadata and step-by-step instructions for both the **git command line** and the **GitHub web interface**.
 
