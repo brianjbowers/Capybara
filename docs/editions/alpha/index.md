@@ -1,6 +1,6 @@
-# Alpha Edition (0.x)
+# {{ project }} {{ edition_full }}
 
-This section documents the {{ project }} {{ edition }} Edition.
+This section documents the {{ edition }} of {{ project }}.
 
 ```{toctree}
 :glob:
