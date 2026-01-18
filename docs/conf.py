@@ -132,7 +132,11 @@ if CURRENT_EDITION_DIR:
 # Capybara is a documentation-only repository. Sphinx is used purely as a documentation compiler for Read the Docs.
 
 extensions = ["myst_parser",]
-myst_enable_extensions = ["substitutions"] 
+
+myst_substitutions = {
+    "project": "Your Project Name",
+    "edition": "1.0",
+}
 
 templates_path = ["_templates",]
 
@@ -159,7 +163,7 @@ language = "en"
 
 # -- MyST (Markdown) configuration ------------------------------------------
 
-myst_enable_extensions = ["colon_fence", "deflist", "tasklist",]
+myst_enable_extensions = ["substitutions", "colon_fence", "deflist", "tasklist",]
 
 
 # ------------------------------------------------------------
