@@ -2,6 +2,19 @@
    Capybara Brand Theme
    =============================== */
 
+@import url('https://fonts.googleapis.com');
+/* Apply to body text and headings */
+html {
+    --pst-font-family-base: 'Source Sans 3', sans-serif;
+    --pst-font-family-heading: 'Source Sans 3', sans-serif;
+}
+.source-code-pro-400 {
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
 /* Sidebar background */
 .wy-side-nav-search,
 .wy-nav-side {
@@ -19,27 +32,40 @@
 }
 
 /* Headings */
-h1, h2, h3, h4 {
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans 3', sans-serif !important;
+  font-weight: 600 !important;
   color: #77390A;
 }
 
 /* Body text */
 body {
+  font-family: 'Source Sans 3', sans-serif !important;
+  font-weight: 300;
   color: #3A2A1A;
 }
 
 /* Links */
 a {
   color: #277DD1;
+  font-weight: 400;
 }
 a:hover {
   color: #39BBFF;
 }
+a:visited {
+  color: #277DD1;
+}
 
 /* Inline code */
-code {
+.rst-content .literal,
+.rst-content pre,
+.rst-content pre code,
+pre, code, kbd, samp {
   background: #C4A48A;
   color: #3A2A1A;
+  font-family: "Source Code Pro", monospace;
+  font-weight: 400;
 }
 
 /* Admonitions */
