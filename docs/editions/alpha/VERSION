@@ -1,0 +1,7 @@
+edition_name = "Alpha Edition"
+edition_version = "0.0.1"
+edition_tagline = "The Under-Construction Pre-Beta Development Edition"
+edition_description = "Alpha edition of the Capybara Framework."
+
+author_supplemental = "Capybara Project Authors"
+copyright_supplemental = "© 2026 Capybara Project Authors"
