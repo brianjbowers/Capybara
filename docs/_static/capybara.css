@@ -59,7 +59,7 @@ html {
    color: #A9A9A4;
 }
 
-.wy-nav-side caption-text {
+.wy-menu-vertical header, .wy-menu-vertical p.caption {
    color: #986D4F !important;
 }
 
