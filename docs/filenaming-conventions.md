@@ -1,4 +1,4 @@
-# Capybara Repository: File Naming Conventions
+# File Naming Conventions
 
 This document outlines the **file naming standards** used in the Capybara repository, optimized for **Read the Docs**, **Sphinx**, and **GitHub**. Following these conventions ensures consistent organization, easy navigation, and proper sorting of files across platforms.
 
