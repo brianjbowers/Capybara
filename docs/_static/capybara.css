@@ -15,6 +15,11 @@ html {
   font-style: normal;
 }
 
+/* Sidebar spacing */
+.wy-menu wy-menu-vertical {
+   margin-bottom: 10em;
+}
+
 /* Sidebar background */
 .wy-nav-side {
   /* background: #9F5A2C; */
