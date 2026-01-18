@@ -1,5 +1,3 @@
-```{orphan}
-
 # Contributor Code of Conduct
 
 ## Our Pledge
