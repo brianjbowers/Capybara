@@ -1,0 +1,7 @@
+edition_name = "Original Edition"
+edition_version = "1.0.0"
+edition_tagline = "Asset & Service Management, Now Floorplan-Powered"
+edition_description = "The Original Edition represents Capybara’s first production-ready framework."
+
+author_supplemental = "Capybara Framework Authors"
+copyright_supplemental = "© 2026 Capybara"
