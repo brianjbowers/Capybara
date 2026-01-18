@@ -36,6 +36,13 @@ myst_enable_extensions = ["colon_fence", "deflist", "tasklist",]
 
 html_theme = "sphinx_rtd_theme"
 
+html_logo = "_static/capybara-logo.png"
+
+html_theme_options = {
+    "logo_only": True,
+    "display_version": False,
+}
+
 # Static files (CSS, images, etc.)
 html_static_path = ["_static"]
 
