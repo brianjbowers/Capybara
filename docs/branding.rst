@@ -37,98 +37,98 @@ Logos
   
   :Use: Light version for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:logo_stacked-gray_light.png <_static/assets/logos/logo_stacked-gray_light.png>
+  :PNG: :download:`logo_stacked-gray_light.png <_static/assets/logos/logo_stacked-gray_light.png>`
   
   .. figure:: _static/assets/logos/logo_stacked-sepia_light.png
   :Recommended display width: 400px
   
   :Use: Light version for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:logo_stacked-sepia_light.png <_static/assets/logos/logo_stacked-sepia_light.png>
+  :PNG: :download:`logo_stacked-sepia_light.png <_static/assets/logos/logo_stacked-sepia_light.png>`
   
   .. figure:: _static/assets/logos/logo_stacked_tagline-sepia_dark.png
   :Recommended display width: 400px
   
   :Use: Dark version for use on dark backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:logo_stacked_tagline-sepia_dark.png <_static/assets/logos/logo_stacked_tagline-sepia_dark.png>
+  :PNG: :download:`logo_stacked_tagline-sepia_dark.png <_static/assets/logos/logo_stacked_tagline-sepia_dark.png>`
   
   .. figure:: _static/assets/logos/logo_stacked_tagline-sepia_light.png
   :Recommended display width: 400px
   
   :Use: Light version for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:logo_stacked_tagline-sepia_light.png <_static/assets/logos/logo_stacked_tagline-sepia_light.png>
+  :PNG: :download:`logo_stacked_tagline-sepia_light.png <_static/assets/logos/logo_stacked_tagline-sepia_light.png>`
   
   .. figure:: _static/assets/logos/logo_horizontal-gray_dark.png
   :Recommended display width: 400px
   
   :Use: Dark version for use on dark backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:logo_horizontal-gray_dark.png <_static/assets/logos/logo_horizontal-gray_dark.png>
+  :PNG: :download:`logo_horizontal-gray_dark.png <_static/assets/logos/logo_horizontal-gray_dark.png>`
   
   .. figure:: _static/assets/logos/logo_horizontal-gray_light.png
   :Recommended display width: 400px
   
   :Use: Light version for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:logo_horizontal-gray_light.png <_static/assets/logos/logo_horizontal-gray_light.png>
+  :PNG: :download:`logo_horizontal-gray_light.png <_static/assets/logos/logo_horizontal-gray_light.png>`
   
   .. figure:: _static/assets/logos/logo_horizontal-sepia_dark.png
   :Recommended display width: 400px
   
   :Use: Dark version for use on dark backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:logo_horizontal-sepia_dark.png <_static/assets/logos/logo_horizontal-sepia_dark.png>
+  :PNG: :download:`logo_horizontal-sepia_dark.png <_static/assets/logos/logo_horizontal-sepia_dark.png>`
   
   .. figure:: _static/assets/logos/logo_horizontal-sepia_light.png
   :Recommended display width: 400px
   
   :Use: Light version for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:logo_horizontal-sepia_light.png <_static/assets/logos/logo_horizontal-sepia_light.png>
+  :PNG: :download:`logo_horizontal-sepia_light.png <_static/assets/logos/logo_horizontal-sepia_light.png>`
   
   .. figure:: _static/assets/logos/wordmark-blue.png
   :Recommended display width: 400px
   
   :Use: Blue wordmark for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:wordmark-blue.png <_static/assets/logos/wordmark-blue.png>
+  :PNG: :download:`wordmark-blue.png <_static/assets/logos/wordmark-blue.png>`
   
   .. figure:: _static/assets/logos/wordmark-gray_dark.png
   :Recommended display width: 400px
   
   :Use: Dark version for use on dark backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:wordmark-gray_dark.png <_static/assets/logos/wordmark-gray_dark.png>
+  :PNG: :download:`wordmark-gray_dark.png <_static/assets/logos/wordmark-gray_dark.png>`
   
   .. figure:: _static/assets/logos/wordmark-gray_light.png
   :Recommended display width: 400px
   
   :Use: Light version for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:wordmark-gray_light.png <_static/assets/logos/wordmark-gray_light.png>
+  :PNG: :download:`wordmark-gray_light.png <_static/assets/logos/wordmark-gray_light.png>`
   
   .. figure:: _static/assets/logos/wordmark-gray_medium.png
   :Recommended display width: 400px
   
   :Use: Medium contrast version for light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:wordmark-gray_medium.png <_static/assets/logos/wordmark-gray_medium.png>
+  :PNG: :download:`wordmark-gray_medium.png <_static/assets/logos/wordmark-gray_medium.png>`
   
   .. figure:: _static/assets/logos/wordmark-sepia_dark.png
   :Recommended display width: 400px
   
   :Use: Dark version for use on dark backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:wordmark-sepia_dark.png <_static/assets/logos/wordmark-sepia_dark.png>
+  :PNG: :download:`wordmark-sepia_dark.png <_static/assets/logos/wordmark-sepia_dark.png>`
   
   .. figure:: _static/assets/logos/wordmark-sepia_light.png
   :Recommended display width: 400px
   
   :Use: Light version for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:wordmark-sepia_light.png <_static/assets/logos/wordmark-sepia_light.png>
+  :PNG: :download:`wordmark-sepia_light.png <_static/assets/logos/wordmark-sepia_light.png>`
 
 .. container:: logos-250
 
@@ -137,42 +137,42 @@ Logos
   
   :Use: Dark version for use on dark backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:mascot-gray_dark.png <_static/assets/logos/mascot-gray_dark.png>
+  :PNG: :download:`mascot-gray_dark.png <_static/assets/logos/mascot-gray_dark.png>`
   
   .. figure:: _static/assets/logos/mascot-gray_light-xlarge.png
   :Recommended display width: 250px
   
   :Use: High-resolution light version for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:mascot-gray_light-xlarge.png <_static/assets/logos/mascot-gray_light-xlarge.png>
+  :PNG: :download:`mascot-gray_light-xlarge.png <_static/assets/logos/mascot-gray_light-xlarge.png>`
   
   .. figure:: _static/assets/logos/mascot-gray_light.png
   :Recommended display width: 250px
   
   :Use: Light version for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:mascot-gray_light.png <_static/assets/logos/mascot-gray_light.png>
+  :PNG: :download:`mascot-gray_light.png <_static/assets/logos/mascot-gray_light.png>`
   
   .. figure:: _static/assets/logos/mascot-sepia_dark.png
   :Recommended display width: 250px
   
   :Use: Dark version for use on dark backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:mascot-sepia_dark.png <_static/assets/logos/mascot-sepia_dark.png>
+  :PNG: :download:`mascot-sepia_dark.png <_static/assets/logos/mascot-sepia_dark.png>`
   
   .. figure:: _static/assets/logos/mascot-sepia_light-xlarge.png
   :Recommended display width: 250px
   
   :Use: High-resoltion light version for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:mascot-sepia_light-xlarge.png <_static/assets/logos/mascot-sepia_light-xlarge.png>
+  :PNG: :download:`mascot-sepia_light-xlarge.png <_static/assets/logos/mascot-sepia_light-xlarge.png>`
   
   .. figure:: _static/assets/logos/mascot-sepia_light.png
   :Recommended display width: 250px
   
   :Use: Light version for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:mascot-sepia_light.png <_static/assets/logos/mascot-sepia_light.png>
+  :PNG: :download:`mascot-sepia_light.png <_static/assets/logos/mascot-sepia_light.png>`
 
 .. container:: logos-189
   
@@ -181,42 +181,42 @@ Logos
   
   :Use: Blue initial mark for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:initial-blue.png <_static/assets/logos/initial-blue.png>
+  :PNG: :download:`initial-blue.png <_static/assets/logos/initial-blue.png>`
   
   .. figure:: _static/assets/logos/initial-gray_dark.png
   :Recommended display width: 189px
   
   :Use: Dark version for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:initial-gray_dark.png <_static/assets/logos/initial-gray_dark.png>
+  :PNG: :download:`initial-gray_dark.png <_static/assets/logos/initial-gray_dark.png>`
   
   .. figure:: _static/assets/logos/initial-gray_light.png
   :Recommended display width: 189px
   
   :Use: Light version for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:initial-gray_light.png <_static/assets/logos/initial-gray_light.png>
+  :PNG: :download:`initial-gray_light.png <_static/assets/logos/initial-gray_light.png>`
   
   .. figure:: _static/assets/logos/initial-gray_medium.png
   :Recommended display width: 189px
   
   :Use: Medium contrast version for light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:initial-gray_medium.png <_static/assets/logos/initial-gray_medium.png>
+  :PNG: :download:`initial-gray_medium.png <_static/assets/logos/initial-gray_medium.png>`
   
   .. figure:: _static/assets/logos/initial-sepia_dark.png
   :Recommended display width: 189px
   
   :Use: Dark version for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:initial-sepia_dark.png <_static/assets/logos/initial-sepia_dark.png>
+  :PNG: :download:`initial-sepia_dark.png <_static/assets/logos/initial-sepia_dark.png>`
   
   .. figure:: _static/assets/logos/initial-sepia_light.png
   :Recommended display width: 189px
   
   :Use: Light version for use on light backgrounds
   :License: CC-BY 4.0
-  :PNG: :download:initial-sepia_light.png <_static/assets/logos/initial-sepia_light.png>
+  :PNG: :download:`initial-sepia_light.png <_static/assets/logos/initial-sepia_light.png>`
 
 License
 -------
