@@ -148,6 +148,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 source_suffix = {
     ".md": "markdown",
+    ".rst": "restructuredtext",
 }
 
 master_doc = "index"
