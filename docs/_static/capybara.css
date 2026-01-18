@@ -138,15 +138,15 @@ img {
 }
 
 .logos-400 img {
-  max-width: 400px;
+  max-width: 400px !important;
 }
 
 .logos-250 img {
-  max-width: 250px;
+  max-width: 250px !important;
 }
 
 .logos-189 img {
-  max-width: 189px;
+  max-width: 189px !important;
 }
 
 
