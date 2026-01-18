@@ -12,7 +12,9 @@ This documentation corresponds to:
 :caption: Framework Contents
 :titlesonly:
 editions/alpha/index
+```
 
+```{toctree}
 :maxdepth: 1
 :caption: Supplemental Matter
 :titlesonly:
