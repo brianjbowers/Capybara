@@ -15,6 +15,34 @@ html {
   font-style: normal;
 }
 
+/* --------------------------------------------------
+   Capybara Edition Sidebar Block
+-------------------------------------------------- */
+
+.capybara-edition {
+  margin: 0.75rem 0 1.25rem 0;
+  padding: 0.75rem;
+  border-left: 4px solid #535353;
+  background-color: #404040;
+  font-size: 0.85rem;
+}
+
+.capybara-edition-name {
+  font-weight: bold;
+  color: #EBE0D5;
+}
+
+.capybara-edition-version {
+  color: #C6A88E;
+  margin-top: 0.15rem;
+}
+
+.capybara-edition-tagline {
+  margin-top: 0.4rem;
+  font-style: italic;
+  color: #CAB29E;
+}
+
 /* Sidebar spacing */
 .wy-menu wy-menu-vertical {
    margin-bottom: 10em;
