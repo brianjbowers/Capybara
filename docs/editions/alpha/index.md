@@ -1,11 +1,12 @@
-# {{ project }} {{ edition_full }}
+# {{ project }}
+
+**Edition:** {{ edition_full }}
 
 This section documents the {{ edition_name }} of {{ project }}.
 
 ```{toctree}
 :glob:
-:maxdepth: -1
+:maxdepth: 3
 :caption: Contents
 :titlesonly:
 *
-```
