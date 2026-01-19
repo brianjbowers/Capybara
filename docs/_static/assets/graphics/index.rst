@@ -3,35 +3,35 @@ Graphics
 
 .. container:: logos-250
 
-  .. figure:: .png
+  .. figure:: A.png
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`A.png <A.png>`
 
-  .. figure:: .png
+  .. figure:: B.png
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`B.png <B.png>`
 
-  .. figure:: .png
+  .. figure:: C.png
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`C.png <C.png>`
 
-  .. figure:: .png
+  .. figure:: D.png
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`D.png <D.png>`
 
-  .. figure:: .png
+  .. figure:: E.png
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`E.png <E.png>`
 
   .. figure:: F.png
   :Recommended display width: 250px
