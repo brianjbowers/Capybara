@@ -89,6 +89,20 @@ html {
   background: #F3EAE3;
 }
 
+/* Toctree */
+.wy-menu-vertical li.current {
+    background: #088CDB;
+}
+
+.wy-menu-vertical li.current {
+    background: #e3e3e3;
+}
+
+.wy-menu-vertical li.toctree-l2.current>a, .wy-menu-vertical li.toctree-l2.current li.toctree-l3>a {
+    background: #39BBFD;
+}
+
+
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Source Sans 3', sans-serif !important;
