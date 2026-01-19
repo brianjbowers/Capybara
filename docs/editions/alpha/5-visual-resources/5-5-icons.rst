@@ -38,3 +38,15 @@ Icons
   :Description: Text file icon
   :Attribution: Modified from an open-source icon set by `Sigit Purnomo <https://www.vecteezy.com/members/sigitt-purnomo95896024>`_
   :PNG: :download:`icon-txt.svg <5-5-icons/icon-txt.svg>`
+
+  .. figure:: 5-5-icons/icon-py.svg
+  :Recommended display width: 64px
+  :Description: Python file icon
+  :Attribution: Modified from an open-source icon set by `Sigit Purnomo <https://www.vecteezy.com/members/sigitt-purnomo95896024>`_
+  :PNG: :download:`icon-py.svg <5-5-icons/icon-py.svg>`
+
+  .. figure:: 5-5-icons/icon-ipynb.svg
+  :Recommended display width: 64px
+  :Description: Jupyter notebook file icon
+  :Attribution: Modified from an open-source icon set by `Sigit Purnomo <https://www.vecteezy.com/members/sigitt-purnomo95896024>`_
+  :PNG: :download:`icon-ipynb.svg <5-5-icons/icon-ipynb.svg>`
