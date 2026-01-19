@@ -93,15 +93,15 @@ html {
 .wy-menu-vertical li.current a {
   color: #000000 !important;
 }
-.wy-menu-vertical li.current>a, .wy-menu-vertical li.on a {
-  background: #FFFFFF !important;
-}
 .wy-menu-vertical li.current {
   background: #D6D6D6 !important;
   color: #000000 !important;
 }
 .wy-menu-vertical li.current>a, .wy-menu-vertical li.current li>a {
   background: #39BBFF !important; /* bright blue */
+}
+.wy-menu-vertical li.on a {
+  background: #FFFFFF !important;
 }
 .wy-menu-vertical li.current>a:hover, .wy-menu-vertical li.current li>a:hover {
   background: #088CDB !important; /* darker blue */
@@ -110,6 +110,9 @@ html {
 .wy-menu-vertical li.toctree-l1.current>a {
   border-bottom: 1px solid #FFFFFF !important;
   border-top: 1px solid #FFFFFF !important;
+}
+.wy-menu-vertical li button.toctree-expand {
+    color: #FFFFFF !important;
 }
 
 /* Headings */
