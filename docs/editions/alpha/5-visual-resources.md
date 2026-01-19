@@ -2,6 +2,7 @@
 
 ```{include} 5-visual-resources/README.md
 :heading-offset: 1
+```
 
 ```{toctree}
 :glob:
