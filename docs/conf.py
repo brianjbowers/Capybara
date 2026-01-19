@@ -158,7 +158,7 @@ language = "en"
 
 # -- MyST (Markdown) configuration ------------------------------------------
 
-myst_enable_extensions = ["colon_fence", "deflist", "tasklist",]
+myst_enable_extensions = ["substitutions", "colon_fence", "deflist", "tasklist",]
 
 
 # ------------------------------------------------------------
@@ -183,11 +183,20 @@ html_context = {
     "edition_version": edition_version,
     "edition_tagline": edition_tagline,
     "edition_description": edition_description,
-    "edition_full": f"{edition_name} {edition_version}",
+    "edition_full": edition_full,
     "version": edition_version,
     "release": edition_full,
 }
-myst_substitutions = html_context
+myst_substitutions = {
+    "project": project,
+    "edition_name": edition_name,
+    "edition_version": edition_version,
+    "edition_tagline": edition_tagline,
+    "edition_description": edition_description,
+    "edition_full": edition_full,
+    "version": edition_version,
+    "release": edition_full,
+}
 
 # Title shown in browser, sidebar, and search results
 html_title = f"{project} – {edition_full}"
