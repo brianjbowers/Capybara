@@ -115,7 +115,7 @@ html {
 }
 .wy-menu-vertical li.toctree-l1.current>a:hover {
   background: #39BBFF !important;
-  color: #D6D6D6 !important;
+  color: #000000 !important;
 }
 .wy-menu-vertical li button.toctree-expand {
     color: #FFFFFF !important;
