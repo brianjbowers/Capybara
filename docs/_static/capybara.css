@@ -165,3 +165,16 @@ img {
 footer {
    font-size: xx-small;
 }
+
+/* Mascot illustrations */
+.capybara-left {
+  float: left;
+  width: 150px;
+  margin: 0 1em 1em 0;
+}
+
+.capybara-right {
+  float: right;
+  width: 150px;
+  margin: 0 0 1em 1em;
+}
