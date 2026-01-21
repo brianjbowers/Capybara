@@ -15,6 +15,11 @@ html {
   font-style: normal;
 }
 
+/* Body */
+body {
+   background: #C5A770;
+}
+
 /* --------------------------------------------------
    Capybara Edition Sidebar Block
 -------------------------------------------------- */
