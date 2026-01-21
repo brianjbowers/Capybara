@@ -254,5 +254,5 @@ li.wy-breadcrumbs-aside {
    unicode-bidi: isolate;
 }
 li.wy-breadcrumbs-aside a, li.wy-breadcrumbs-aside a:hover, li.wy-breadcrumbs-aside a:visited {
-   color: var(--readthedocs-flyout-current-version-color);
+   color: var(--readthedocs-flyout-current-version-color) !important;
 }
