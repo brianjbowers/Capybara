@@ -18,8 +18,8 @@ style-notes
 branding
 graphics
 filenaming-conventions
-code-of-conduct
 contributing
+code-of-conduct
 publishing
 ```
 
