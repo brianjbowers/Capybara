@@ -37,73 +37,73 @@ Graphics
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`F.png <F.png>`
 
   .. figure:: G.png
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`G.png <G.png>`
 
   .. figure:: H.png
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`H.png <H.png>`
 
   .. figure:: I.png
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`I.png <I.png>`
 
   .. figure:: J.png
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`J.png <J.png>`
 
   .. figure:: K.png
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`K.png <K.png>`
 
   .. figure:: L.png
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`L.png <L.png>`
 
   .. figure:: M.png
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`M.png <M.png>`
 
   .. figure:: N.png
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`N.png <N.png>`
 
   .. figure:: O.png
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`O.png <O.png>`
 
   .. figure:: P.png
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`P.png <P.png>`
 
   .. figure:: Q.png
   :Recommended display width: 250px
   :Description: PLACEHOLDER
   :License: CC-BY 4.0
-  :PNG: :download:`.png <.png>`
+  :PNG: :download:`Q.png <Q.png>`
 
   .. figure:: R.png
   :Recommended display width: 250px
