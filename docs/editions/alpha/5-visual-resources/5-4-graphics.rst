@@ -85,7 +85,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/F.png>`
+       - :download:`F.png <../../../_static/assets/graphics/F.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/G.png
@@ -99,7 +99,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/G.png>`
+       - :download:`G.png <../../../_static/assets/graphics/G.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/H.png
@@ -113,7 +113,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/H.png>`
+       - :download:`H.png <../../../_static/assets/graphics/H.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/I.png
@@ -127,7 +127,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/I.png>`
+       - :download:`I.png <../../../_static/assets/graphics/I.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/J.png
@@ -141,7 +141,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/J.png>`
+       - :download:`J.png <../../../_static/assets/graphics/J.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/K.png
@@ -155,7 +155,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/K.png>`
+       - :download:`K.png <../../../_static/assets/graphics/K.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/L.png
@@ -169,7 +169,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/L.png>`
+       - :download:`L.png <../../../_static/assets/graphics/L.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/M.png
@@ -183,7 +183,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/M.png>`
+       - :download:`M.png <../../../_static/assets/graphics/M.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/N.png
@@ -197,7 +197,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/N.png>`
+       - :download:`N.png <../../../_static/assets/graphics/N.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/O.png
@@ -211,7 +211,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/O.png>`
+       - :download:`O.png <../../../_static/assets/graphics/O.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/P.png
@@ -225,7 +225,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/P.png>`
+       - :download:`P.png <../../../_static/assets/graphics/P.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/Q.png
@@ -239,7 +239,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/Q.png>`
+       - :download:`Q.png <../../../_static/assets/graphics/Q.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/R.png
@@ -253,7 +253,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/R.png>`
+       - :download:`R.png <../../../_static/assets/graphics/R.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/S.png
@@ -267,7 +267,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/S.png>`
+       - :download:`S.png <../../../_static/assets/graphics/S.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/T.png
@@ -281,7 +281,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/T.png>`
+       - :download:`T.png <../../../_static/assets/graphics/T.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/U.png
@@ -295,7 +295,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/U.png>`
+       - :download:`U.png <../../../_static/assets/graphics/U.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/V.png
@@ -309,7 +309,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/V.png>`
+       - :download:`V.png <../../../_static/assets/graphics/V.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/W.png
@@ -323,7 +323,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/W.png>`
+       - :download:`W.png <../../../_static/assets/graphics/W.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/X.png
@@ -337,7 +337,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/X.png>`
+       - :download:`X.png <../../../_static/assets/graphics/X.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/Y.png
@@ -351,7 +351,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/Y.png>`
+       - :download:`Y.png <../../../_static/assets/graphics/Y.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/Z.png
@@ -365,7 +365,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`.png <../../../_static/assets/graphics/Z.png>`
+       - :download:`Z.png <../../../_static/assets/graphics/Z.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AA.png
@@ -379,7 +379,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AA.png>`
+       - :download:`AA.png <../../../_static/assets/graphics/AA.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AB.png
@@ -393,7 +393,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AB.png>`
+       - :download:`AB.png <../../../_static/assets/graphics/AB.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AC.png
@@ -407,7 +407,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AC.png>`
+       - :download:`AC.png <../../../_static/assets/graphics/AC.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AD.png
@@ -421,7 +421,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AD.png>`
+       - :download:`AD.png <../../../_static/assets/graphics/AD.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AE.png
@@ -435,7 +435,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AE.png>`
+       - :download:`AE.png <../../../_static/assets/graphics/AE.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AF.png
@@ -449,7 +449,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AF.png>`
+       - :download:`AF.png <../../../_static/assets/graphics/AF.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AG.png
@@ -463,7 +463,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AG.png>`
+       - :download:`AG.png <../../../_static/assets/graphics/AG.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AH.png
@@ -477,7 +477,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AH.png>`
+       - :download:`AH.png <../../../_static/assets/graphics/AH.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AI.png
@@ -491,7 +491,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AI.png>`
+       - :download:`AI.png <../../../_static/assets/graphics/AI.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AJ.png
@@ -505,7 +505,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AJ.png>`
+       - :download:`AJ.png <../../../_static/assets/graphics/AJ.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AK.png
@@ -519,7 +519,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AK.png>`
+       - :download:`AK.png <../../../_static/assets/graphics/AK.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AL.png
@@ -533,7 +533,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AL.png>`
+       - :download:`AL.png <../../../_static/assets/graphics/AL.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AM.png
@@ -547,7 +547,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AM.png>`
+       - :download:`AM.png <../../../_static/assets/graphics/AM.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AN.png
@@ -561,7 +561,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AN.png>`
+       - :download:`AN.png <../../../_static/assets/graphics/AN.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AO.png
@@ -575,7 +575,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AO.png>`
+       - :download:`AO.png <../../../_static/assets/graphics/AO.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AP.png
@@ -589,7 +589,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AP.png>`
+       - :download:`AP.png <../../../_static/assets/graphics/AP.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AQ.png
@@ -603,7 +603,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AQ.png>`
+       - :download:`AQ.png <../../../_static/assets/graphics/AQ.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AR.png
@@ -617,7 +617,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AR.png>`
+       - :download:`AR.png <../../../_static/assets/graphics/AR.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AS.png
@@ -631,7 +631,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AS.png>`
+       - :download:`AS.png <../../../_static/assets/graphics/AS.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AT.png
@@ -645,7 +645,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AT.png>`
+       - :download:`AT.png <../../../_static/assets/graphics/AT.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AU.png
@@ -659,7 +659,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AU.png>`
+       - :download:`AU.png <../../../_static/assets/graphics/AU.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AV.png
@@ -673,7 +673,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AV.png>`
+       - :download:`AV.png <../../../_static/assets/graphics/AV.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AW.png
@@ -687,7 +687,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AW.png>`
+       - :download:`AW.png <../../../_static/assets/graphics/AW.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AX.png
@@ -701,7 +701,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AX.png>`
+       - :download:`AX.png <../../../_static/assets/graphics/AX.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AY.png
@@ -715,7 +715,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AY.png>`
+       - :download:`AY.png <../../../_static/assets/graphics/AY.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/AZ.png
@@ -729,7 +729,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`A.png <../../../_static/assets/graphics/AZ.png>`
+       - :download:`AZ.png <../../../_static/assets/graphics/AZ.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/BA.png
@@ -743,7 +743,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`B.png <../../../_static/assets/graphics/BA.png>`
+       - :download:`BA.png <../../../_static/assets/graphics/BA.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/BB.png
@@ -757,7 +757,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`B.png <../../../_static/assets/graphics/BB.png>`
+       - :download:`BB.png <../../../_static/assets/graphics/BB.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/BC.png
@@ -771,7 +771,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`B.png <../../../_static/assets/graphics/BC.png>`
+       - :download:`BC.png <../../../_static/assets/graphics/BC.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/BD.png
@@ -785,7 +785,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`B.png <../../../_static/assets/graphics/BD.png>`
+       - :download:`BD.png <../../../_static/assets/graphics/BD.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/BE.png
@@ -799,7 +799,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`B.png <../../../_static/assets/graphics/BE.png>`
+       - :download:`BE.png <../../../_static/assets/graphics/BE.png>`
 
 
   .. figure:: ../../../_static/assets/graphics/BF.png
@@ -813,7 +813,7 @@ Graphics
      * - **License**
        - CC-BY 4.0
      * - **PNG**
-       - :download:`B.png <../../../_static/assets/graphics/BF.png>`
+       - :download:`BF.png <../../../_static/assets/graphics/BF.png>`
 
 License
 -------
