@@ -23,7 +23,7 @@
 ```{toctree}
 :glob:
 :maxdepth: 3
-:caption: ArcGIS Indoor Set-up
+:caption: ArcGIS Indoors Set-up
 :titlesonly:
 1-implementation-guide/1-2-indoors-setup/*
 ```
