@@ -1,5 +1,5 @@
-Icons
-=====
+Icons and Symbols
+=================
 
 File Icons
 ----------
