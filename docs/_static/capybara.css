@@ -156,6 +156,20 @@ a:hover {
 a:visited {
   color: #277DD1;
 }
+/* Link underlines */
+a.xref {
+  text-decoration: underline dotted !important;
+}
+a.internal {
+  text-decoration: underline !important;
+}
+a.download {
+  text-decoration: underline dashed !important;
+}
+a.external {
+  text-decoration-line: underline !important;
+  text-decoration-style: double !important;
+}
 
 /* Inline code */
 .rst-content pre,
@@ -206,21 +220,6 @@ img {
 }
 footer {
    font-size: xx-small;
-}
-
-/* Hyperlink underlines */
-a.xref {
-  text-decoration: underline dotted;
-}
-a.internal {
-  text-decoration: underline;
-}
-a.download {
-  text-decoration: underline dashed;
-}
-a.external {
-  text-decoration-line: underline;
-  text-decoration-style: double;
 }
 
 /* Mascot illustrations */
