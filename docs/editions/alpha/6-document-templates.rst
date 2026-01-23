@@ -11,14 +11,14 @@ Project Planning
    :widths: 20 80
    :align: left
 
-   * - .. image:: 5-visual-resources/5-5-icons/icon-docx.svg
+   * - .. image:: 5-visual-resources/5-5-icons/file-docx.png
           :width: 64px
           :alt: Word template icon
      - * **Description:** Microsoft Word project plan template  
        * **License:** MIT  
        * **DOCX:** :download:`project-plan-template.docx <6-document-templates/6-1-project-planning/project-plan-template.docx>`
 
-   * - .. image:: 5-visual-resources/5-5-icons/icon-xlsx.svg
+   * - .. image:: 5-visual-resources/5-5-icons/file-xlsx.png
           :width: 64px
           :alt: Excel template icon
      - * **Description:** Microsoft Excel project plan charts, tables, and matrices template  
@@ -32,7 +32,7 @@ Presentation
    :widths: 20 80
    :align: left
 
-   * - .. image:: 5-visual-resources/5-5-icons/icon-pptx.svg
+   * - .. image:: 5-visual-resources/5-5-icons/file-pptx.png
           :width: 64px
           :alt: PowerPoint template icon
      - * **Description:** Microsoft PowerPoint presentation template  
@@ -46,7 +46,7 @@ Satisfaction Survey
    :widths: 20 80
    :align: left
 
-   * - .. image:: 5-visual-resources/5-5-icons/icon-docx.svg
+   * - .. image:: 5-visual-resources/5-5-icons/file-docx.png
           :width: 64px
           :alt: Word template icon
      - * **Description:** Microsoft Word user satisfaction survey
