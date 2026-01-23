@@ -1,6 +1,6 @@
 # Budget and Procurement
 
-Does not include network or other infrastructure costs; just the ArcGIS and ITAM/ITSM components, plus person-hours for installation, configuration, integration, training, etc. 
+<img class="capybara-right" width="250px" src="/en/latest/_images/AK.png" alt="Capybara accountant balancing the books" style="filter: sepia(25%);">Does not include network or other infrastructure costs; just the ArcGIS and ITAM/ITSM components, plus person-hours for installation, configuration, integration, training, etc. 
 
 - **ArcGIS Platform**
   - ArcGIS Online
