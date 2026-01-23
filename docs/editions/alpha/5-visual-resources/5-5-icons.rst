@@ -21,6 +21,16 @@ File Icons
   :Description: Microsoft PowerPoint file icon
   :PNG: :download:`file-pptx.png <5-5-icons/file-pptx.png>`
 
+  .. figure:: 5-5-icons/file-visio.png
+  :Recommended display width: 64px
+  :Description: Microsoft Visio file icon
+  :PNG: :download:`file-visio.png <5-5-icons/file-visio.png>`
+
+  .. figure:: 5-5-icons/file-visio2.png
+  :Recommended display width: 64px
+  :Description: Microsoft Visio  (alternate) file icon
+  :PNG: :download:`file-visio2.png <5-5-icons/file-visio2.png>`
+
   .. figure:: 5-5-icons/file-pdf.png
   :Recommended display width: 64px
   :Description: Adobe PDF file icon
@@ -85,6 +95,11 @@ File Icons
   :Recommended display width: 64px
   :Description: MP3 audio file icon
   :PNG: :download:`file-mp3.png <5-5-icons/file-mp3.png>`
+
+  .. figure:: 5-5-icons/file-mp32.png
+  :Recommended display width: 64px
+  :Description: MP3 audio (alternate) file icon
+  :PNG: :download:`file-mp32.png <5-5-icons/file-mp32.png>`
 
   .. figure:: 5-5-icons/file-mp4.png
   :Recommended display width: 64px
@@ -171,6 +186,11 @@ Callout Symbols
   :Description: External link (alternate) symbol
   :PNG: :download:`symbol-externallink2.png <5-5-icons/symbol-externallink2.png>`
 
+  .. figure:: 5-5-icons/symbol-github.png
+  :Recommended display width: 64px
+  :Description: GitHub symbol
+  :PNG: :download:`symbol-github.png <5-5-icons/symbol-github.png>`
+
   .. figure:: 5-5-icons/symbol-globe.png
   :Recommended display width: 64px
   :Description: Globe symbol
@@ -246,6 +266,21 @@ Callout Symbols
   :Description: Quotation (alternate) symbol
   :PNG: :download:`symbol-quotation2.png <5-5-icons/symbol-quotation2.png>`
 
+  .. figure:: 5-5-icons/symbol-screen.png
+  :Recommended display width: 64px
+  :Description: Screen symbol
+  :PNG: :download:`symbol-screen.png <5-5-icons/symbol-screen.png>`
+
+  .. figure:: 5-5-icons/symbol-screenshot.png
+  :Recommended display width: 64px
+  :Description: Screenshot symbol
+  :PNG: :download:`symbol-screenshot.png <5-5-icons/symbol-screenshot.png>`
+
+  .. figure:: 5-5-icons/symbol-screenshot2.png
+  :Recommended display width: 64px
+  :Description: Screenshot (alternate) symbol
+  :PNG: :download:`symbol-screenshot2.png <5-5-icons/symbol-screenshot2.png>`
+
   .. figure:: 5-5-icons/symbol-seealso.png
   :Recommended display width: 64px
   :Description: See Also symbol
@@ -275,3 +310,13 @@ Callout Symbols
   :Recommended display width: 64px
   :Description: Telescope (big picture) symbol
   :PNG: :download:`symbol-telescope.png <5-5-icons/symbol-telescope.png>`
+
+  .. figure:: 5-5-icons/symbol-youtube.png
+  :Recommended display width: 64px
+  :Description: YouTube symbol
+  :PNG: :download:`symbol-youtube.png <5-5-icons/symbol-youtube.png>`
+
+  .. figure:: 5-5-icons/symbol-youtube2.png
+  :Recommended display width: 64px
+  :Description: YouTube (alternate) symbol
+  :PNG: :download:`symbol-youtube2.png <5-5-icons/symbol-youtube2.png>`
