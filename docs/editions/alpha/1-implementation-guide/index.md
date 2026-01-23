@@ -5,7 +5,7 @@
 ```
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
 1-1-first-steps/index
 1-2-indoors-setup/index
