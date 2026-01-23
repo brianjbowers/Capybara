@@ -1,3 +1,5 @@
+# Capybara Implementation Guide
+
 ```{include} README.md
 :heading-offset: 1
 ```
