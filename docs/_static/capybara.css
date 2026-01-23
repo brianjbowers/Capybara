@@ -208,6 +208,21 @@ footer {
    font-size: xx-small;
 }
 
+/* Hyperlink underlines */
+a.xref {
+  text-decoration: underline dotted;
+}
+a.internal {
+  text-decoration: underline;
+}
+a.download {
+  text-decoration: underline dashed;
+}
+a.external {
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+
 /* Mascot illustrations */
 .capybara-left {
   float: left;
