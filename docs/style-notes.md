@@ -120,12 +120,144 @@ Examples:
 <strong>Note:</strong> This is a default callout.
 </div>
 ```
-
 <div class="callout callout-default"><img src="/en/latest/_images/symbol-arrow.png" class="callout-icon"><span class="callout-title">Default Callout</span>
 <strong>Note:</strong> This is a default callout.
 </div>
 
-- For warnings or cautions, consider using **sepia2 (#77390A)** for borders with `#DAC4B0` background.
+```
+<div class="callout callout-tip"><img src="/en/latest/images/symbol-lightbulb.png" class="callout-icon"><span class="callout-title">Tip Callout</span>
+<strong>Note:</strong> This is a tip callout.
+</div>
+```
+<div class="callout callout-tip"><img src="/en/latest/images/symbol-lightbulb.png" class="callout-icon"><span class="callout-title">Tip Callout</span>
+<strong>Note:</strong> This is a tip callout.
+</div>
+
+```
+<div class="callout callout-check"><img src="/en/latest/images/symbol-checkmark2.png" class="callout-icon"><span class="callout-title">Check Callout</span>
+<strong>Note:</strong> This is a check callout.
+</div>
+```
+<div class="callout callout-check"><img src="/en/latest/images/symbol-checkmark2.png" class="callout-icon"><span class="callout-title">Check Callout</span>
+<strong>Note:</strong> This is a check callout.
+</div>
+
+```
+<div class="callout callout-info"><img src="/en/latest/images/symbol-information.png" class="callout-icon"><span class="callout-title">Info Callout</span>
+<strong>Note:</strong> This is an info callout.
+</div>
+```
+<div class="callout callout-info"><img src="/en/latest/images/symbol-information.png" class="callout-icon"><span class="callout-title">Info Callout</span>
+<strong>Note:</strong> This is an info callout.
+</div>
+
+```
+<div class="callout callout-warning"><img src="/en/latest/images/symbol-exclamation.png" class="callout-icon"><span class="callout-title">Warning Callout</span>
+<strong>Note:</strong> This is a warning callout.
+</div>
+```
+<div class="callout callout-warning"><img src="/en/latest/images/symbol-exclamation.png" class="callout-icon"><span class="callout-title">Warning Callout</span>
+<strong>Note:</strong> This is a warning callout.
+</div>
+
+```
+<div class="callout callout-important"><img src="/en/latest/_images/symbol-important.png" class="callout-icon"><span class="callout-title">Important Callout</span>
+<strong>Note:</strong> This is an important callout.
+</div>
+```
+<div class="callout callout-important"><img src="/en/latest/_images/symbol-important.png" class="callout-icon"><span class="callout-title">Important Callout</span>
+<strong>Note:</strong> This is an important callout.
+</div>
+
+```
+<div class="callout callout-technicalnote"><img src="/en/latest/images/symbol-technicalnote.png" class="callout-icon"><span class="callout-title">Technical Note Callout</span>
+<strong>Note:</strong> This is a technical note callout.
+</div>
+```
+<div class="callout callout-technicalnote"><img src="/en/latest/images/symbol-technicalnote.png" class="callout-icon"><span class="callout-title">Technical Note Callout</span>
+<strong>Note:</strong> This is a technical note callout.
+</div>
+
+```
+<div class="callout callout-bonusinfo"><img src="/en/latest/_images/symbol-bonusinfo.png" class="callout-icon"><span class="callout-title">Bonus Info Callout</span>
+<strong>Note:</strong> This is a bonus info callout.
+</div>
+```
+<div class="callout callout-bonusinfo"><img src="/en/latest/_images/symbol-bonusinfo.png" class="callout-icon"><span class="callout-title">Bonus Info Callout</span>
+<strong>Note:</strong> This is a bonus info callout.
+</div>
+
+```
+<div class="callout callout-question"><img src="/en/latest/images/symbol-question.png" class="callout-icon"><span class="callout-title">Question Callout</span>
+<strong>Note:</strong> This is a question callout.
+</div>
+```
+<div class="callout callout-question"><img src="/en/latest/images/symbol-question.png" class="callout-icon"><span class="callout-title">Question Callout</span>
+<strong>Note:</strong> This is a question callout.
+</div>
+
+```
+<div class="callout callout-ontarget"><img src="/en/latest/images/symbol-target.png" class="callout-icon"><span class="callout-title">On Target Callout</span>
+<strong>Note:</strong> This is a default callout.
+</div>
+```
+<div class="callout callout-ontarget"><img src="/en/latest/images/symbol-target.png" class="callout-icon"><span class="callout-title">On Target Callout</span>
+<strong>Note:</strong> This is a default callout.
+</div>
+
+```
+<div class="callout callout-screenshot"><img src="/en/latest/images/symbol-screenshot.png" class="callout-icon"><span class="callout-title">Screenshot Callout</span>
+<strong>Note:</strong> This is a screenshot callout.
+</div>
+```
+<div class="callout callout-screenshot"><img src="/en/latest/images/symbol-screenshot.png" class="callout-icon"><span class="callout-title">Screenshot Callout</span>
+<strong>Note:</strong> This is a screenshot callout.
+</div>
+
+```
+<div class="callout callout-quotation"><img src="/en/latest/images/symbol-quotation2.png" class="callout-icon"><span class="callout-title">Quotation Callout</span>
+<strong>Note:</strong> This is a quotation callout.
+</div>
+```
+<div class="callout callout-quotation"><img src="/en/latest/images/symbol-quotation2.png" class="callout-icon"><span class="callout-title">Quotation Callout</span>
+<strong>Note:</strong> This is a quotation callout.
+</div>
+
+```
+<div class="callout callout-closerlook"><img src="/en/latest/images/symbol-look.png" class="callout-icon"><span class="callout-title">Closer Look Callout</span>
+<strong>Note:</strong> This is a closer look callout.
+</div>
+```
+<div class="callout callout-closerlook"><img src="/en/latest/images/symbol-look.png" class="callout-icon"><span class="callout-title">Closer Look Callout</span>
+<strong>Note:</strong> This is a closer look callout.
+</div>
+
+```
+<div class="callout callout-comingsoon"><img src="/en/latest/_images/symbol-comingsoon2.png" class="callout-icon"><span class="callout-title">Comin Soon Callout</span>
+<strong>Note:</strong> This is a coming soon callout.
+</div>
+```
+<div class="callout callout-comingsoon"><img src="/en/latest/_images/symbol-comingsoon2.png" class="callout-icon"><span class="callout-title">Comin Soon Callout</span>
+<strong>Note:</strong> This is a coming soon callout.
+</div>
+
+```
+<div class="callout callout-externallinks"><img src="/en/latest/_images/symbol-externallink2.png" class="callout-icon"><span class="callout-title">External Links Callout</span>
+<strong>Note:</strong> This is an external links callout.
+</div>
+```
+<div class="callout callout-externallinks"><img src="/en/latest/_images/symbol-externallink2.png" class="callout-icon"><span class="callout-title">External Links Callout</span>
+<strong>Note:</strong> This is an external links callout.
+</div>
+
+```
+<div class="callout callout-video"><img src="/en/latest/images/symbol-youtube.png" class="callout-icon"><span class="callout-title">Video Callout</span>
+<strong>Note:</strong> This is a video callout.
+</div>
+```
+<div class="callout callout-video"><img src="/en/latest/images/symbol-youtube.png" class="callout-icon"><span class="callout-title">Video Callout</span>
+<strong>Note:</strong> This is a video callout.
+</div>
 
 
 ## Images
