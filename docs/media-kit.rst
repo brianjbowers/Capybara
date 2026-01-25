@@ -23,6 +23,8 @@ QR Code
 Stickers
 --------
 
+.. container:: logos-250
+
   .. figure:: _static/assets/media-kit/qr-sticker-1.png
 
   .. list-table::
