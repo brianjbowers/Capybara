@@ -231,11 +231,11 @@ Examples:
 </div>
 
 ```
-<div class="callout callout-comingsoon"><img src="/en/latest/_images/symbol-comingsoon2.png" class="callout-icon"><span class="callout-title">Comin Soon Callout</span>
+<div class="callout callout-comingsoon"><img src="/en/latest/_images/symbol-comingsoon2.png" class="callout-icon"><span class="callout-title">Coming Soon Callout</span>
 <strong>Note:</strong> This is a coming soon callout.
 </div>
 ```
-<div class="callout callout-comingsoon"><img src="/en/latest/_images/symbol-comingsoon2.png" class="callout-icon"><span class="callout-title">Comin Soon Callout</span>
+<div class="callout callout-comingsoon"><img src="/en/latest/_images/symbol-comingsoon2.png" class="callout-icon"><span class="callout-title">Coming Soon Callout</span>
 <strong>Note:</strong> This is a coming soon callout.
 </div>
 
