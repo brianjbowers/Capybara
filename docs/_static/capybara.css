@@ -277,6 +277,8 @@ img.callout-icon {
    display:block !important;
    float: left !important;
    padding-right: 0.75em !important;
+   max-height: 32px !important;
+   width: auto !important;
 }
 span.callout-title {
    display: block !important;
