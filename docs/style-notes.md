@@ -75,8 +75,9 @@ All future editions should respect these choices unless explicitly updated in a 
 
 ## Headings
 
-- All headings should use `#77390A`.  
-- Use `=` for top-level (`h1`), `-` for second-level (`h2`), `~` for third-level (`h3`).  
+- All headings should use `#77390A`.
+- In markdown, indicate headings with `# ` for top-level (`h1`), `## ` for second-level (`h2`), `### ` for third-level (`h3`).  
+- In RST files, underscore headings with `=` for top-level (`h1`), `-` for second-level (`h2`), `~` for third-level (`h3`).  
 - Keep headings clear and descriptive.
 
 Example:
@@ -99,14 +100,14 @@ Example:
 
 ## Lists
 
-- Use bullets for unordered lists (`*`), numbers for ordered lists (`1.`).  
+- Use bullets for unordered lists (`-` or `*`), numbers for ordered lists (`1.`).  
 - Nested lists are indented by **3 spaces** per level.  
 
-Example:
+Examples:
 ```
-* First item
-   * Nested item
-* Second item
+- First item
+- - Nested item
+- Second item
 ```
 
 
