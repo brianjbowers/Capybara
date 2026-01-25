@@ -113,10 +113,8 @@ Examples:
 
 ## Callouts / Notes
 
-- Use **blue accents** for informational callouts. Example HTML snippet:
-
 ```
-<div class="callout callout-default"><img src="/en/latest/images/symbol-arrow.png" class="callout-icon"><span class="callout-title">Default Callout</span>
+<div class="callout callout-default"><img src="/en/latest/_images/symbol-arrow.png" class="callout-icon"><span class="callout-title">Default Callout</span>
 <strong>Note:</strong> This is a default callout.
 </div>
 ```
@@ -125,38 +123,38 @@ Examples:
 </div>
 
 ```
-<div class="callout callout-tip"><img src="/en/latest/images/symbol-lightbulb.png" class="callout-icon"><span class="callout-title">Tip Callout</span>
+<div class="callout callout-tip"><img src="/en/latest/_images/symbol-lightbulb.png" class="callout-icon"><span class="callout-title">Tip Callout</span>
 <strong>Note:</strong> This is a tip callout.
 </div>
 ```
-<div class="callout callout-tip"><img src="/en/latest/images/symbol-lightbulb.png" class="callout-icon"><span class="callout-title">Tip Callout</span>
+<div class="callout callout-tip"><img src="/en/latest/_images/symbol-lightbulb.png" class="callout-icon"><span class="callout-title">Tip Callout</span>
 <strong>Note:</strong> This is a tip callout.
 </div>
 
 ```
-<div class="callout callout-check"><img src="/en/latest/images/symbol-checkmark2.png" class="callout-icon"><span class="callout-title">Check Callout</span>
+<div class="callout callout-check"><img src="/en/latest/_images/symbol-checkmark2.png" class="callout-icon"><span class="callout-title">Check Callout</span>
 <strong>Note:</strong> This is a check callout.
 </div>
 ```
-<div class="callout callout-check"><img src="/en/latest/images/symbol-checkmark2.png" class="callout-icon"><span class="callout-title">Check Callout</span>
+<div class="callout callout-check"><img src="/en/latest/_images/symbol-checkmark2.png" class="callout-icon"><span class="callout-title">Check Callout</span>
 <strong>Note:</strong> This is a check callout.
 </div>
 
 ```
-<div class="callout callout-info"><img src="/en/latest/images/symbol-information.png" class="callout-icon"><span class="callout-title">Info Callout</span>
+<div class="callout callout-info"><img src="/en/latest/_images/symbol-information.png" class="callout-icon"><span class="callout-title">Info Callout</span>
 <strong>Note:</strong> This is an info callout.
 </div>
 ```
-<div class="callout callout-info"><img src="/en/latest/images/symbol-information.png" class="callout-icon"><span class="callout-title">Info Callout</span>
+<div class="callout callout-info"><img src="/en/latest/_images/symbol-information.png" class="callout-icon"><span class="callout-title">Info Callout</span>
 <strong>Note:</strong> This is an info callout.
 </div>
 
 ```
-<div class="callout callout-warning"><img src="/en/latest/images/symbol-exclamation.png" class="callout-icon"><span class="callout-title">Warning Callout</span>
+<div class="callout callout-warning"><img src="/en/latest/_images/symbol-exclamation.png" class="callout-icon"><span class="callout-title">Warning Callout</span>
 <strong>Note:</strong> This is a warning callout.
 </div>
 ```
-<div class="callout callout-warning"><img src="/en/latest/images/symbol-exclamation.png" class="callout-icon"><span class="callout-title">Warning Callout</span>
+<div class="callout callout-warning"><img src="/en/latest/_images/symbol-exclamation.png" class="callout-icon"><span class="callout-title">Warning Callout</span>
 <strong>Note:</strong> This is a warning callout.
 </div>
 
@@ -170,11 +168,11 @@ Examples:
 </div>
 
 ```
-<div class="callout callout-technicalnote"><img src="/en/latest/images/symbol-technicalnote.png" class="callout-icon"><span class="callout-title">Technical Note Callout</span>
+<div class="callout callout-technicalnote"><img src="/en/latest/_images/symbol-technicalnote.png" class="callout-icon"><span class="callout-title">Technical Note Callout</span>
 <strong>Note:</strong> This is a technical note callout.
 </div>
 ```
-<div class="callout callout-technicalnote"><img src="/en/latest/images/symbol-technicalnote.png" class="callout-icon"><span class="callout-title">Technical Note Callout</span>
+<div class="callout callout-technicalnote"><img src="/en/latest/_images/symbol-technicalnote.png" class="callout-icon"><span class="callout-title">Technical Note Callout</span>
 <strong>Note:</strong> This is a technical note callout.
 </div>
 
@@ -188,47 +186,47 @@ Examples:
 </div>
 
 ```
-<div class="callout callout-question"><img src="/en/latest/images/symbol-question.png" class="callout-icon"><span class="callout-title">Question Callout</span>
+<div class="callout callout-question"><img src="/en/latest/_images/symbol-question.png" class="callout-icon"><span class="callout-title">Question Callout</span>
 <strong>Note:</strong> This is a question callout.
 </div>
 ```
-<div class="callout callout-question"><img src="/en/latest/images/symbol-question.png" class="callout-icon"><span class="callout-title">Question Callout</span>
+<div class="callout callout-question"><img src="/en/latest/_images/symbol-question.png" class="callout-icon"><span class="callout-title">Question Callout</span>
 <strong>Note:</strong> This is a question callout.
 </div>
 
 ```
-<div class="callout callout-ontarget"><img src="/en/latest/images/symbol-target.png" class="callout-icon"><span class="callout-title">On Target Callout</span>
+<div class="callout callout-ontarget"><img src="/en/latest/_images/symbol-target.png" class="callout-icon"><span class="callout-title">On Target Callout</span>
 <strong>Note:</strong> This is a default callout.
 </div>
 ```
-<div class="callout callout-ontarget"><img src="/en/latest/images/symbol-target.png" class="callout-icon"><span class="callout-title">On Target Callout</span>
+<div class="callout callout-ontarget"><img src="/en/latest/_images/symbol-target.png" class="callout-icon"><span class="callout-title">On Target Callout</span>
 <strong>Note:</strong> This is a default callout.
 </div>
 
 ```
-<div class="callout callout-screenshot"><img src="/en/latest/images/symbol-screenshot.png" class="callout-icon"><span class="callout-title">Screenshot Callout</span>
+<div class="callout callout-screenshot"><img src="/en/latest/_images/symbol-screenshot.png" class="callout-icon"><span class="callout-title">Screenshot Callout</span>
 <strong>Note:</strong> This is a screenshot callout.
 </div>
 ```
-<div class="callout callout-screenshot"><img src="/en/latest/images/symbol-screenshot.png" class="callout-icon"><span class="callout-title">Screenshot Callout</span>
+<div class="callout callout-screenshot"><img src="/en/latest/_images/symbol-screenshot.png" class="callout-icon"><span class="callout-title">Screenshot Callout</span>
 <strong>Note:</strong> This is a screenshot callout.
 </div>
 
 ```
-<div class="callout callout-quotation"><img src="/en/latest/images/symbol-quotation2.png" class="callout-icon"><span class="callout-title">Quotation Callout</span>
+<div class="callout callout-quotation"><img src="/en/latest/_images/symbol-quotation2.png" class="callout-icon"><span class="callout-title">Quotation Callout</span>
 <strong>Note:</strong> This is a quotation callout.
 </div>
 ```
-<div class="callout callout-quotation"><img src="/en/latest/images/symbol-quotation2.png" class="callout-icon"><span class="callout-title">Quotation Callout</span>
+<div class="callout callout-quotation"><img src="/en/latest/_images/symbol-quotation2.png" class="callout-icon"><span class="callout-title">Quotation Callout</span>
 <strong>Note:</strong> This is a quotation callout.
 </div>
 
 ```
-<div class="callout callout-closerlook"><img src="/en/latest/images/symbol-look.png" class="callout-icon"><span class="callout-title">Closer Look Callout</span>
+<div class="callout callout-closerlook"><img src="/en/latest/_images/symbol-look.png" class="callout-icon"><span class="callout-title">Closer Look Callout</span>
 <strong>Note:</strong> This is a closer look callout.
 </div>
 ```
-<div class="callout callout-closerlook"><img src="/en/latest/images/symbol-look.png" class="callout-icon"><span class="callout-title">Closer Look Callout</span>
+<div class="callout callout-closerlook"><img src="/en/latest/_images/symbol-look.png" class="callout-icon"><span class="callout-title">Closer Look Callout</span>
 <strong>Note:</strong> This is a closer look callout.
 </div>
 
@@ -251,11 +249,11 @@ Examples:
 </div>
 
 ```
-<div class="callout callout-video"><img src="/en/latest/images/symbol-youtube.png" class="callout-icon"><span class="callout-title">Video Callout</span>
+<div class="callout callout-video"><img src="/en/latest/_images/symbol-youtube.png" class="callout-icon"><span class="callout-title">Video Callout</span>
 <strong>Note:</strong> This is a video callout.
 </div>
 ```
-<div class="callout callout-video"><img src="/en/latest/images/symbol-youtube.png" class="callout-icon"><span class="callout-title">Video Callout</span>
+<div class="callout callout-video"><img src="/en/latest/_images/symbol-youtube.png" class="callout-icon"><span class="callout-title">Video Callout</span>
 <strong>Note:</strong> This is a video callout.
 </div>
 
