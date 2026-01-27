@@ -273,6 +273,11 @@ footer {
   border: var(--callout-border-width) var(--callout-border-style) var(--color-default);
   margin-bottom: 1rem !important;
 }
+.code {
+  background-color: #0D1117 !important;
+  color: #FFFFFF !important;
+  border-style: dashed !important;
+}
 img.callout-icon {
    display:block !important;
    float: left !important;
