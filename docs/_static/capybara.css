@@ -262,7 +262,7 @@ footer {
   --color-externallinks: #F1EAD0 !important;
   --color-video: #E8CDB8 !important;
   --color-default: #CFD6DE !important;
-  --color-python: #34A552 !important;
+  --color-python: #29903B !important;
   /* Shared Border Properties */
   --callout-border-width: 6px !important;
   --callout-border-style: double !important;
@@ -276,7 +276,8 @@ footer {
 }
 .code {
   background-color: #151B23 !important;
-  color: #FFFFFF !important;
+  color: #29903B !important;
+  border-color: #29903B;
   border-style: dashed !important;
 }
 img.callout-icon {
